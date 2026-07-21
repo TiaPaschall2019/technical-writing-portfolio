@@ -5,3 +5,4 @@ Aspirinig technical writer focused on clear, user-friendly documentation. This r
 - [Get Today's Weather API Doc](weather-api.md) - developer-style documentation practice
 - [Markdown Link Not Working](markdown-link-not-working.md) - troubleshooting-style documentation practice
 - [Getting Started with Markdown](getting-started-with-markdown.md) - quick-start guide practice
+- [Release Notes - Markdown Portfolio v1.0](release-notes.md) - release notes practice
