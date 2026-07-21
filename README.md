@@ -7,3 +7,4 @@ Aspirinig technical writer focused on clear, user-friendly documentation. This r
 - [Getting Started with Markdown](getting-started-with-markdown.md) - quick-start guide practice
 - [Release Notes - Markdown Portfolio v1.0](release-notes.md) - release notes practice
 - [Glossary of Markdown & GitHub Terms](markdown-github-glossary.md) - glossary/reference practice
+- [FAQ - Markdown & GitHub Basics](markdown-github-faq.md) - FAQ practice
