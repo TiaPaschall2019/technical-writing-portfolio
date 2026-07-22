@@ -8,3 +8,4 @@ Aspirinig technical writer focused on clear, user-friendly documentation. This r
 - [Release Notes - Markdown Portfolio v1.0](release-notes.md) - release notes practice
 - [Glossary of Markdown & GitHub Terms](markdown-github-glossary.md) - glossary/reference practice
 - [FAQ - Markdown & GitHub Basics](markdown-github-faq.md) - FAQ practice
+- [Style Guide - Technical Writing Basics](style-guide-technical-writing.md) - style guide practice
