@@ -2,7 +2,7 @@
 Aspirinig technical writer focused on clear, user-friendly documentation. This repository contains writing samples as I build my skills. 
 ## Samples
 - [How to Shampoo Your Hair](shampoo.md) - instructional writing practice
--  A step-by-step instructional guide.
+  A step-by-step instructional guide.
 - [Get Today's Weather API Doc](weather-api.md) - developer-style documentation practice
 - Developer-style API reference documentation.
 - [Markdown Link Not Working](markdown-link-not-working.md) - troubleshooting-style documentation practice
