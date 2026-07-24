@@ -10,3 +10,4 @@ Aspirinig technical writer focused on clear, user-friendly documentation. This r
 - [FAQ - Markdown & GitHub Basics](markdown-github-faq.md) - FAQ practice
 - [Style Guide - Technical Writing Basics](style-guide-technical-writing.md) - style guide practice
 - [Tutorial: Creating Your First GitHub Portfolio Repository](tutorial-first-github-portfolio.md) - tutorial/walkthrough practice
+- [Markdown Cheat Sheet](markdown-cheat-sheet.md) - cheat sheet practice
